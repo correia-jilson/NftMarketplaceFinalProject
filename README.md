@@ -1,2 +1,0 @@
-# NftMarketplaceFinalProject
-Final project Cryptography
